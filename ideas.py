@@ -6,7 +6,7 @@ ideas = [
     "Watch Tiktoks", "Make a new friend", "Take a walk",
     "Watch an episode of Talk Tuah", "Find God", "Text your ex",
     "Talk to your mom", "Eat a burger"]
-
+#what does this stuff do?
 def get_idea():
     return random.choice(ideas)
 
